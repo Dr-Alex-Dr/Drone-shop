@@ -2,6 +2,10 @@
 
 Верстка интернет магазина по продаже дронов
 
+
+https://dr-alex-dr.github.io/Drone-shop/
+
+
 ![Снимок экрана 2023-08-22 225340](https://github.com/Dr-Alex-Dr/Drone-shop/assets/60229705/357eefa7-5784-4618-bb0f-6f400bad095e)
 
 
